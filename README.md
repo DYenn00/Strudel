@@ -1,0 +1,2 @@
+# Strudel
+live music coding 

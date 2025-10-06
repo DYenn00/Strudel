@@ -1,6 +1,7 @@
-// song @title User01011Error_ 
+ ## "User01011Error"
+// song @title User01011Error 
 // song @by EVZ 
-// script @ DYenn 
+// script @by DYenn 
 
 $:note("a2 <eb2 <a2 g1>>".fast(8))
 .sound("z_pink pulse:<32 16 8 4>")
